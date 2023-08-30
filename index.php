@@ -2,7 +2,7 @@
 <html>
 <body bgcolor=black>
 <center>
-<h1><font color="white">Try HARDER :))</font></h2>
+<h1><font color="purple">Try HARDER</font></h2>
 </center>
 <right>
 <h2><font color="pink">Ya tvoy rot ebal :)</font></h2>
